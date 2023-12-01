@@ -1,6 +1,6 @@
-customhost = "employee.ckha14emntby.us-east-1.rds.amazonaws.com"
+customhost = "database-1.ckha14emntby.us-east-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "admin12345"
 customdb = "employee"
-custombucket = "aws-live-project-s3-bucket"
+custombucket = "aws-live-bucket"
 customregion = "us-east-1"
